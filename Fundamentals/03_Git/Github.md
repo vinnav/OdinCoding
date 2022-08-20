@@ -6,6 +6,9 @@ git push or git push origin main (Both accomplish the same goal in this context)
 git add .
 git commit -m "A message describing what you have done to make this snapshot different"
 
+git pull
+git push
+
 **Commands related to checking status or log history**
 git status
 git log
